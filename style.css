@@ -1,0 +1,47 @@
+body{
+    background-color: black;
+}
+.button-1,.button-2,.button-3,.button-4,.button-5,.button-6,.button-7,.button-8,.button-9,.button-0,.button-{
+    height: 60px;
+  width: 60px;
+  border-radius: 60px;
+  border: none;
+  font-size: 26px;
+  cursor: pointer;
+  margin-right: 5px;
+  background-color: grey;
+  color: white;
+}
+.button-equal{
+    height: 60px;
+  width: 60px;
+  border-radius: 60px;
+  border: none;
+  font-size: 26px;
+  cursor: pointer;
+  margin-right: 5px;
+  background-color: grey;
+  color: white;
+}
+.button-clear{
+    height: 60px;
+    width: 70px;
+    border-radius: 60px;
+    border: none;
+    font-size: 26px;
+    cursor: pointer;
+    margin-right: 5px;
+    background-color: grey;
+    color: white;
+}
+.button-plus,.button-minus,.button-mul ,.button-divide{
+    height: 60px;
+    width: 60px;
+    border-radius: 60px;
+    border: none;
+    font-size: 26px;
+    cursor: pointer;
+    margin-right: 5px;
+    background-color: orange;
+    color:white;
+}
