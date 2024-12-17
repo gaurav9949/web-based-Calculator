@@ -1,6 +1,11 @@
 body{
     background-color: black;
+    height: 100%;
+    margin: 0;
+    display: grid;
+    place-items: center;
 }
+
 .button-1,.button-2,.button-3,.button-4,.button-5,.button-6,.button-7,.button-8,.button-9,.button-0,.button-{
     height: 60px;
   width: 60px;
@@ -44,4 +49,16 @@ body{
     margin-right: 5px;
     background-color: orange;
     color:white;
+}
+.button-dot{
+    height: 60px;
+    width: 60px;
+    border-radius: 60px;
+    border: none;
+    font-size: 26px;
+    cursor: pointer;
+    margin-right: 5px;
+    background-color: grey;
+    color: white; 
+ 
 }
